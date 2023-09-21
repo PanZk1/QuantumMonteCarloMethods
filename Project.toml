@@ -1,0 +1,13 @@
+name = "QuantumMonteCarloMethods"
+uuid = "863948c6-b1f7-4721-8938-d5a3ed56c89b"
+authors = ["GiggleLiu <cacate0129@gmail.com> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
